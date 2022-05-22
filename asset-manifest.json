@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/adav-sede/static/css/main.4a3a11bf.css",
-    "main.js": "/adav-sede/static/js/main.f9c269cc.js",
-    "static/js/787.e926879b.chunk.js": "/adav-sede/static/js/787.e926879b.chunk.js",
-    "static/media/biblia.jpg": "/adav-sede/static/media/biblia.5c87e36643d01be2d2ea.jpg",
-    "index.html": "/adav-sede/index.html",
-    "main.4a3a11bf.css.map": "/adav-sede/static/css/main.4a3a11bf.css.map",
-    "main.f9c269cc.js.map": "/adav-sede/static/js/main.f9c269cc.js.map",
-    "787.e926879b.chunk.js.map": "/adav-sede/static/js/787.e926879b.chunk.js.map"
+    "main.css": "/static/css/main.d0ec9c37.css",
+    "main.js": "/static/js/main.4e807492.js",
+    "static/js/787.e926879b.chunk.js": "/static/js/787.e926879b.chunk.js",
+    "static/media/biblia.jpg": "/static/media/biblia.5c87e36643d01be2d2ea.jpg",
+    "index.html": "/index.html",
+    "main.d0ec9c37.css.map": "/static/css/main.d0ec9c37.css.map",
+    "main.4e807492.js.map": "/static/js/main.4e807492.js.map",
+    "787.e926879b.chunk.js.map": "/static/js/787.e926879b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a3a11bf.css",
-    "static/js/main.f9c269cc.js"
+    "static/css/main.d0ec9c37.css",
+    "static/js/main.4e807492.js"
   ]
 }
