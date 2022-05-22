@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/adav-sede/static/css/main.4a3a11bf.css",
+    "main.js": "/adav-sede/static/js/main.b1021676.js",
+    "static/js/787.e926879b.chunk.js": "/adav-sede/static/js/787.e926879b.chunk.js",
+    "static/media/biblia.jpg": "/adav-sede/static/media/biblia.5c87e36643d01be2d2ea.jpg",
+    "index.html": "/adav-sede/index.html",
+    "main.4a3a11bf.css.map": "/adav-sede/static/css/main.4a3a11bf.css.map",
+    "main.b1021676.js.map": "/adav-sede/static/js/main.b1021676.js.map",
+    "787.e926879b.chunk.js.map": "/adav-sede/static/js/787.e926879b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a3a11bf.css",
+    "static/js/main.b1021676.js"
+  ]
+}
