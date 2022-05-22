@@ -9,7 +9,7 @@ import App from '../App';
 
 function AdavRoutes() {
     return (
-    <BrowserRouter>
+    <BrowserRouter basename="/adav-sede">
         <Routes>
             <Route path="/" element={<App />} />
         </Routes>
